@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mostapha0818-zY2y.aternos.me",
-    "port": 50727,
+    "ip": "mostapha0818.aternos.me",
+    "port": 26294,
     "version": "",
     "try-creative": false
   },
